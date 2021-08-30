@@ -5,7 +5,7 @@ Anetes de iniciar o passo a passo da documentação, para os preguiçosos que so
  powershell visual studio code
     
     cd    acessar a pasta raiz     
-    ng update @angular/cli
+
     npm install
     npm update 
     npm start  
