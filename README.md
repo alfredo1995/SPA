@@ -17,7 +17,7 @@ soluções para possiveis erro na depedencia do front
     npm install
   
 
-api em: https://github.com/alfredo1995/WebAPI
+api em: https://github.com/alfredo1995/REST.git
   
 <br>
   
