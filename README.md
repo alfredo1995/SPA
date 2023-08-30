@@ -18,7 +18,7 @@ soluções para possiveis erro na depedencia do front
   
 
 api em: https://github.com/alfredo1995/REST.git
-  
+
 <br>
   
 Pronto! kkk Agora vamos ao passo a passo do desenvolvimento de SPA em Angular ;)   
