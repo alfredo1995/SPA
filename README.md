@@ -7,7 +7,7 @@ inicialização front end ( abrindo aplicação)
    
 inicialização back end (abrindo swagger)
 
-    ctrl + shift + b
+    ctrl + shift + b 
     inicializar na DevIO.Api
      
 soluções para possiveis erro na depedencia do front  
