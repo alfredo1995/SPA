@@ -1,16 +1,16 @@
-inicialização front end ( abrindo aplicação)
+front end initialization (opening application)
   
     npm install
     npm update 
     npm start  
     npm s 
    
-inicialização back end (abrindo swagger)
+back end initialization (opening swagger)
 
     ctrl + shift + b 
     inicializar na DevIO.Api 
      
-soluções para possiveis erro na depedencia do front  
+solutions for possible errors in the front dependency
 
     npm cache clean --force
     npm pkill node
@@ -21,8 +21,6 @@ api em: https://github.com/alfredo1995/REST.git
 
 <br>
   
-Pronto! kkk Agora vamos ao passo a passo do desenvolvimento de SPA em Angular ;)   
-
     ng new --minimal -g MeuProjeto
 
 Dando uma cara para aplicação 
