@@ -10,7 +10,7 @@ back end initialization (opening swagger)
     ctrl + shift + b 
     inicializar na DevIO.Api 
      
-solutions for possible errors in the front dependency
+solutions for possible errors in the front dependency 
 
     npm cache clean --force
     npm pkill node
