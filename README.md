@@ -12,7 +12,7 @@ inicialização back end (abrindo swagger)
      
 soluções para possiveis erro na depedencia do front  
 
-    npm cache clean --force
+    npm cache clean --force 
     npm pkill node
     npm install
   
