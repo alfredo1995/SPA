@@ -1,5 +1,5 @@
 inicialização front end ( abrindo aplicação)
-  
+   
     npm install
     npm update 
     npm start  
